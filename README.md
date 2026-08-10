@@ -10,18 +10,18 @@ The application provides an interactive Streamlit web interface for document upl
 
 **✨ Features**
 
-* 📄 Upload PDF documents through a web interface
-* 🔍 Semantic search over document content
-* ✂️ Intelligent text chunking for improved retrieval
-* 🧠 Gemini-based text embeddings
-* ⚡ Fast similarity search using FAISS
-* 💬 Natural-language question answering
-* 🤖 Gemini-powered answer generation
-* 🎨 Interactive Streamlit UI
-* 🔐 API key management using environment variables
-* 📚 Supports multi-page PDF documents
-* 🚫 Prevents the model from answering using information outside the uploaded document
-* ⚙️ Configurable chunk size and chunk overlap
+*  Upload PDF documents through a web interface
+*  Semantic search over document content
+*  Intelligent text chunking for improved retrieval
+*  Gemini-based text embeddings
+*  Fast similarity search using FAISS
+*  Natural-language question answering
+*  Gemini-powered answer generation
+*  Interactive Streamlit UI
+*  API key management using environment variables
+*  Supports multi-page PDF documents
+*  Prevents the model from answering using information outside the uploaded document
+*  Configurable chunk size and chunk overlap
 
 **Architecture**
 
@@ -35,7 +35,7 @@ The application provides an interactive Streamlit web interface for document upl
             Text Extraction
                   │
                   ▼
-          Text Chunking
+            Text Chunking
                   │
                   ▼
          Gemini Embeddings
@@ -50,7 +50,7 @@ The application provides an interactive Streamlit web interface for document upl
           Relevant Chunks
                   │
                   ▼
-         Gemini LLM
+            Gemini LLM
                   │
                   ▼
          Generated Answer
