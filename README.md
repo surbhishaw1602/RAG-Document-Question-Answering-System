@@ -107,4 +107,23 @@ RAG Pipeline
 6. Retrieval
 7. Answer Generation
 
+Example Usage
+Upload a document
+
+For example:
+
+DS1.pdf
+
+The system processes the document:
+
+PDF loaded successfully — 19 page
+Created 36 text chunks
+Vector database created
+Ask a question
+Question:
+data preprocessing steps ?
+Answer
+Based on the provided documents, common steps in data preprocessing include:
+Remove duplicates.
+Handle missing values
              
