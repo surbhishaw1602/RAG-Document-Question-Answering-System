@@ -8,7 +8,7 @@ The system processes the uploaded document, divides it into meaningful text chun
 
 The application provides an interactive Streamlit web interface for document upload and question answering.
 
-** Features**
+**Features**
 
 *  Upload PDF documents through a web interface
 *  Semantic search over document content
@@ -89,15 +89,14 @@ Rag_Pdf/
 **`app.py`**
 
 Main Streamlit application containing:
-
-* PDF upload
+** PDF upload
 * PDF processing
 * Text chunking
 * Gemini embeddings
 * FAISS vector database
 * Document retrieval
 * Gemini question answering
-* Streamlit UI
+* Streamlit UI*
 
 **RAG Pipeline**
 
@@ -111,7 +110,7 @@ Main Streamlit application containing:
 
 **Example Usage**
 
-*Upload a document*
+Upload a document
 
 For example:
 
