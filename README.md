@@ -89,14 +89,14 @@ Rag_Pdf/
 **`app.py`**
 
 Main Streamlit application containing:
-** PDF upload
+* PDF upload
 * PDF processing
 * Text chunking
 * Gemini embeddings
 * FAISS vector database
 * Document retrieval
 * Gemini question answering
-* Streamlit UI*
+* Streamlit UI
 
 **RAG Pipeline**
 
