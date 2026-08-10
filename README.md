@@ -38,7 +38,7 @@ The application provides an interactive Streamlit web interface for document upl
             Text Chunking
                   │
                   ▼
-         Gemini Embeddings
+          Gemini Embeddings
                   │
                   ▼
           FAISS Vector Store
@@ -47,13 +47,13 @@ The application provides an interactive Streamlit web interface for document upl
              Retriever
                   │
                   ▼
-          Relevant Chunks
+           Relevant Chunks
                   │
                   ▼
             Gemini LLM
                   │
                   ▼
-         Generated Answer
+          Generated Answer
                   │
                   ▼
          Streamlit Interface
